@@ -43,4 +43,16 @@ address{
     margin: 10px auto;
     padding: 10px 10px 0px 10px;
 }
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0px;
+}
+
+.navbar-dark{
+    background-color: #512DA8;
+}
+.pad{
+    padding-left: 50px;
+    padding-right: 50px;
+}
 
