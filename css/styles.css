@@ -1,105 +1,40 @@
-.row-header{
-    margin: 0px auto;
-    padding: 0px auto;
-}
+.row-header {
+  margin: 0px auto;
+  padding: 0px 0px; }
 
-.row-content{
-    margin: 0px auto;
-    padding: 0px 50px 0px 50px;
-    border-bottom: 1px ridge;
-    min-height: 400px;
-}
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px; }
 
-.footer{
-    background-color: #d1c4e9;
-    margin: 0px auto;
-    padding: 20px 0px 20px 0px;
-}
-.jumbotron{
-    padding: 70px 30px 70px 30px;
-    margin : 0px auto;
-    background-color: #9575cd;
-    color :floralwhite;
-}
+.footer {
+  background-color: #D1C4E9;
+  margin: 0px auto;
+  padding: 20px 0px; }
 
-address{
-    font-size: 80%;
-    margin: 0px;
-    color : #0f0f0f;
-}
-.row-header-ab{
-    margin: 10px auto;
-    padding: 0px auto;
-}
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px;
+  background: #9575CD;
+  color: floralwhite; }
 
-.row-content-ab{
-    margin: 10px auto;
-    padding: 10 px 10px 0px 10px;
-    min-height: 400px;
-    border-bottom: 0.5px ridge;
-}
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f; }
 
-.cont{
-    margin: 10px auto;
-    padding: 10px 10px 0px 10px;
-}
-body{
-    padding: 50px 0px 0px 0px;
-    z-index: 0px;
-}
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0; }
 
-.navbar-dark{
-    background-color: #512DA8;
-}
-.pad{
-    padding-left: 50px;
-    padding-right: 50px;
-}
+.navbar-dark {
+  background-color: #512DA8; }
 
-.bg-table{
-    background-color: gold;
-    color: #fff;
-    font-weight: bold;
-}
-.padding{
-    padding: 0px 0px 0px 0px;
-}
-.label-pad{
-    padding-left: 2px;
-    padding-right: 2px ;
-    margin-left: 60px;
-}
-.Reserve{
-    background-color: gold;
-}
-.row-content1{
-    min-width: 250px;
-}
-.tab-content{
-    border-left: 1px solid #ddd;
-    border-right: 1px solid #ddd;
-    border-bottom: 1px solid #ddd;
-    padding: 10px;
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px; }
 
-}
-.carousel{
-    background-color: #512DA8;
-}
-
-.carousel-item{
-    height: 300px;
-}
-
-.carousel-item img{
-    position: absolute;
-    top: 0;
-    left: 0;
-    min-height: 300px;
-
-}
-
-#carouselButton{
-    right: 0px;
-    position: absolute;
-    bottom: 0px;
-}
+  
